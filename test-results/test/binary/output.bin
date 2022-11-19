@@ -1,0 +1,18 @@
+In findPath
+The startPos is (0, 0)
+'The priority queue contains: [(0, 0)]
+1000000000
+The new path is: []
+0
+In findPath
+The startPos is (0, 0)
+'The priority queue contains: [(0, 0)]
+0
+The new path is: []
+0
+In findPath
+The startPos is (3, 2)
+'The priority queue contains: [(3, 2)]
+1000000000
+The new path is: []
+0
